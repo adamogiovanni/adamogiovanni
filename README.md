@@ -1,6 +1,10 @@
-### Hi there 👋
+<div align="center">
+<img src="https://raw.githubusercontent.com/adamogiovanni/adamogiovanni/main/images/hello.gif" align="center" style="width: 100%" />
+</div>  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge.issue.1)
+
+----
+
 
 ----
 

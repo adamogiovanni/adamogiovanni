@@ -4,10 +4,6 @@
 
 
 ----
-
-
-----
-
 ## I'm an AI enthusiast!
 
 My name is Giovanni Adamo, I'm a Game/Software Developer in process...
@@ -23,6 +19,10 @@ Previously worked in the IT Infrastructure department but I came to THE DARK SID
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+----
+
+
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adamogiovanni.adamogiovanni)

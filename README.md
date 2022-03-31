@@ -84,7 +84,7 @@
 ----
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adamogiovanni&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Giovanni Adamo github stats" /></a> | <a href="https://github.com/adamogiovanni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamogiovanni&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adamogiovanni&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Giovanni Adamo github stats" /></a> | <a href="https://github.com/adamogiovanni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamogiovanni&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br/>  
@@ -103,7 +103,7 @@
 <a href="https://linkedin.com/in/adamogiovanni" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/adamogiovanni" target="_blank">
+<a href="https://www.facebook.com/adamogiovanni1987" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/adamogiovanni" target="_blank">

@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/adamogiovanni/adamogiovanni/main/images/hello_world.gif" align="center" style="width: 100%" height="189" />
-</div>  
+<div align="center"><img style="width: 571px;" src="https://raw.githubusercontent.com/adamogiovanni/adamogiovanni/main/images/hello_world.gif" height="234" align="center" /></div>
 
 ### <div align="center">I'm Giovanni Adamo 👨‍💻 </div>  
   

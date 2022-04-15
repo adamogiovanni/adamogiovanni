@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/adamogiovanni/adamogiovanni/main/images/hello_world.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/adamogiovanni/adamogiovanni/main/images/hello_world.gif" align="center" style="width: 100%" height="189" />
 </div>  
 
 ### <div align="center">I'm Giovanni Adamo 👨‍💻 </div>  

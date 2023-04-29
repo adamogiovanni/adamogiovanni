@@ -1,6 +1,6 @@
 <div align="center"><img style="width: 571px;" src="https://raw.githubusercontent.com/adamogiovanni/adamogiovanni/main/images/hello_world.gif" height="234" align="center" /></div>
 
-### <div align="center">I'm Giovanni Adamo, Computer engineer (software mention) with more than 10 years of experience.  👨‍💻 </div>  
+### <div align="center">I'm Giovanni Adamo, Computer engineer  with more than 10 years of experience.  👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on  XxXxXxX
